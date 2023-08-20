@@ -1,0 +1,4 @@
+SELECT *
+FROM employees
+ORDER BY year DESC
+LIMIT 1,1
